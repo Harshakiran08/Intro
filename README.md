@@ -14,7 +14,7 @@ Final-year Information Science Engineering student with a strong academic founda
 ## Ongoing Academic Project
 
 - **Vein-Vision: Intelligent Retinal Vessel Segmentation for Medical Insight**  
-  Currently leading the development of a medical imaging application aimed at segmenting retinal blood vessels from fundus images using machine learning techniques. The project focuses on enhancing early detection and analysis of retinal diseases, supporting diagnostic precision in ophthalmology.
+  Currently leading the development of a medical imaging application aimed at segmenting retinal blood vessels from fundus images using machine learning techniques. The project focuses on enhancing a pre processing model for early detection and analysis of retinal diseases, supporting diagnostic precision in ophthalmology.
 
 ## Selected Projects
 
@@ -29,7 +29,7 @@ Final-year Information Science Engineering student with a strong academic founda
 - Red Hat Certified System Administrator (RHCSA) – Red Hat Academy  
 - Google Cloud Computing Foundations – Google Cloud  
 - Data Structures in C – Great Learning Academy  
-- MERN Stack Foundation Certificate – [Simpliearn|SKILLUP]
+- MERN Stack Foundation Course – [Simpliearn|SKILLUP]
 
 ## Professional Interests
 
